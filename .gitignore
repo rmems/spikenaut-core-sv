@@ -1,0 +1,22 @@
+# Vivado build artifacts
+*.jou
+*.log
+*.str
+*.wdb
+*.xpr
+*.bit
+*.ltx
+.Xil/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.srcs/
+*.sim/
+
+# Simulation
+*.vcd
+*.fst
+*.ghw
+work/
+xsim.dir/
