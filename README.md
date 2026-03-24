@@ -77,6 +77,12 @@ LifNeuron #(
 );
 ```
 
+## Provenance
+
+Extracted from Eagle-Lander, the author's own private neuromorphic GPU supervisor
+repository (closed-source). The LIF neuron, STDP controller, and parameter RAM modules
+ran on Basys3 FPGA hardware in production before being open-sourced as standalone IP cores.
+
 ## Part of the Spikenaut Ecosystem
 
 | Library | Purpose |
